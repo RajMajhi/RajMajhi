@@ -17,6 +17,4 @@ Hi, I’m Raj. I’m a computer engineering student who enjoys learning new thin
 ---
 [![](https://visitcount.itsvg.in/api?id=RajMajhi&icon=0&color=6)](https://visitcount.itsvg.in)
 
----
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
