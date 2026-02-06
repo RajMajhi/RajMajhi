@@ -14,7 +14,7 @@ Hi, I’m Raj. I’m a computer engineering student who enjoys learning new thin
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=RajMajhi&icon=0&color=6)](https://visitcount.itsvg.in)
-
 
